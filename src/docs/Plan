@@ -1,0 +1,25 @@
+Classinator Features:
+
+├── 1. Data Import & Setup
+│   ├── Course Planner
+│   │
+│   ├── Scraper → MongoDB
+│   │
+│   └── Canvas .ics Import
+│
+├── 2. Course Reccomendation
+│   ├── Course Recs
+│   │
+│   ├── Course Ranking
+│   │
+│   └── Assignment Priority
+│
+├── 3. Schedule Building
+│   ├── Semester Plan
+│   │
+│   └── Personal Events
+│
+└── 4. Schedule Finalization
+    ├── Course Planner → Assignment Manager
+    │
+    └── Calendar + Priority Sidebar
