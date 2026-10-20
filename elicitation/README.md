@@ -91,7 +91,6 @@ Students need help turning degree requirements into actionable course choices an
 <img width="900" height="884" alt="image" src="https://github.com/user-attachments/assets/84f218e9-1e8d-4939-b51f-498cc9d348eb" />
 <img width="533" height="872" alt="image" src="https://github.com/user-attachments/assets/903e36c0-33c0-4936-b894-eb0a4214a5c7" />
 
-- Our wireframes (calendar, priority sidebar, Claudia chat box, course search):
 
 ## How this shaped our requirements
 
