@@ -1,8 +1,7 @@
 # Requirements Elicitation
 
 Evidence we used to decide what Classinator should do: what students do today, where they
-get stuck, and what similar tools offer. Longer write-up on the wiki:
-[Elicit Requirements](https://github.com/rainy115/321-project/wiki/Elicit-Requirements)
+get stuck, and what similar tools offer.
 
 **Features:** (1) Add, edit, and complete calendar events; (2) Prioritize assignments with
 Claudia; (3) Generate sample semester schedules; (4) Add or rank courses in semester plans.
@@ -69,13 +68,29 @@ Claudia; (3) Generate sample semester schedules; (4) Add or rank courses in seme
     [video 2](https://www.youtube.com/watch?v=QcfZt6uFeGg),
     [video 3](https://www.youtube.com/watch?v=qwqYkOPwKQM),
     [video 4](https://www.youtube.com/watch?v=NaZT9KiCJT8)
-    What the user does: [watch and fill in]. Where they struggle: [fill in].
-    Supports Features 3 and 4.
+- What the user does:
+Students log into DegreeWorks, review their degree audit, and check which requirements they have completeed and which remain. Using the What-If tool, they an select a different major, degree, or minor and add planned future classes to see how their coursework would apply. With Transfer What-If, students can select CUNY college or major to explore how their completed credits might transfer. They can also review potential degree progress across programs.
+
+- Where they struggle:
+Students must choose the majors, courses, and programs they want to explore themselves. DegreeWorks shows how existing or planned coursework applies to a selected program, but the tutorial does not demonstrate an automated system that recommends which courses students should take or ranks their options. Transfer planning also requires students to navigate multiple criteria and understand that course equivalencies are not official and may change. What-If audits cannot be saved, so students are advised to print them and discuss their plans with an academic advisor.
+
+- Need:
+Students need help turning degree requirements into actionable course choices and realistic semester plans. Classinator can build on degree-audit information by generating sample semester schedules and ranking course options, while helping students understand their choices before registration.
+- Supports Features 3 and 4: Generate sample semester schedules and add or rank courses in semester plans.
 
 ## Images
-- Canvas calendar and To Do list: 
-- Gradescope assignment list: 
-- Mason DegreeWorks audit and Patriot Scheduler: 
+- Canvas calendar and To Do list: There's no ranking and no way to add your work shifts or other personal plans.
+<img width="749" height="653" alt="image" src="https://github.com/user-attachments/assets/7552aea0-ee0b-474a-a410-b8618aa5a02d" />
+<img width="287" height="660" alt="image" src="https://github.com/user-attachments/assets/55dee0dd-f676-41d8-95c3-bf91804b30cc" />
+
+- Gradescope assignment list: Gradescope is separate from Canvas, so you check two places.
+<img width="937" height="751" alt="image" src="https://github.com/user-attachments/assets/431f6199-241b-4964-8fb2-94d8b904c15e" />
+
+- Mason DegreeWorks audit: It helps you review or arrange courses you pick, but it doesn't exactly suggest courses other than give you a list to choose from.
+<img width="842" height="356" alt="image" src="https://github.com/user-attachments/assets/b6792208-f5b0-4d9c-b037-48e8ec1846a7" />
+<img width="900" height="884" alt="image" src="https://github.com/user-attachments/assets/84f218e9-1e8d-4939-b51f-498cc9d348eb" />
+<img width="533" height="872" alt="image" src="https://github.com/user-attachments/assets/903e36c0-33c0-4936-b894-eb0a4214a5c7" />
+
 - Our wireframes (calendar, priority sidebar, Claudia chat box, course search):
 
 ## How this shaped our requirements
